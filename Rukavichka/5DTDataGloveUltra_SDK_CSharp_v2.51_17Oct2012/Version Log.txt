@@ -1,0 +1,23 @@
+v2.3 20 May 2010
+----
+- First release of CSharp SDK package
+
+v2.31 25 March 2011
+----
+- Added .NET 4.0 drivers
+
+v2.4 26 March 2011
+----
+- Ported project form c++/CLI to C#
+  -> no need to have multiple versions of drivers for 3.5 and 4
+  -> support for Mono (open source C#)
+
+v2.5 2 Sept 2011
+----
+- Added the following functions to C# wrapper:
+GetSensorRawAll, GetSensorRaw, GetCalibrationAll, GetCalibration, SetCalibrationAll, SetCalibration
+
+
+v2.51 17 Oct 2012
+-----
+- Added Unity example

@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stetic-interface>
+  <configuration>
+    <images-root-path>..</images-root-path>
+    <target-gtk-version>2.12</target-gtk-version>
+  </configuration>
+  <import>
+    <widget-library name="glade-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
+    <widget-library name="..\bin\Release\GloveSampleApp.exe" internal="true" />
+  </import>
+  <widget class="Gtk.Window" id="MainWindow" design-size="549 380">
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">5DT C# Glove Sample App</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <signal name="DeleteEvent" handler="OnDeleteEvent" />
+    <child>
+      <widget class="Gtk.Fixed" id="fixed1">
+        <property name="MemberName" />
+        <property name="HasWindow">False</property>
+        <child>
+          <widget class="Gtk.Button" id="btnConnect">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Connect</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="OnBtnConnectClicked" />
+          </widget>
+          <packing>
+            <property name="X">180</property>
+            <property name="Y">20</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Entry" id="txtGlovePort">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Text" translatable="yes">USB0</property>
+            <property name="IsEditable">True</property>
+            <property name="InvisibleChar">●</property>
+          </widget>
+          <packing>
+            <property name="X">15</property>
+            <property name="Y">21</property>
+          </packing>
+        </child>
+        <child>
+          <placeholder />
+        </child>
+        <child>
+          <placeholder />
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="label2">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">Type:</property>
+          </widget>
+          <packing>
+            <property name="X">21</property>
+            <property name="Y">80</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="label3">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">Left/Right:</property>
+          </widget>
+          <packing>
+            <property name="X">20</property>
+            <property name="Y">107</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="label4">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">Packet Rate:</property>
+          </widget>
+          <packing>
+            <property name="X">22</property>
+            <property name="Y">130</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="label5">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">FW Version:</property>
+          </widget>
+          <packing>
+            <property name="X">20</property>
+            <property name="Y">155</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Entry" id="txtPacketRate">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="IsEditable">True</property>
+            <property name="InvisibleChar">●</property>
+          </widget>
+          <packing>
+            <property name="X">98</property>
+            <property name="Y">134</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Entry" id="txtFirmWareVersion">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="IsEditable">True</property>
+            <property name="InvisibleChar">●</property>
+          </widget>
+          <packing>
+            <property name="X">98</property>
+            <property name="Y">159</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Entry" id="txtLR">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="IsEditable">True</property>
+            <property name="InvisibleChar">●</property>
+          </widget>
+          <packing>
+            <property name="X">98</property>
+            <property name="Y">108</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Entry" id="txtType">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="IsEditable">True</property>
+            <property name="InvisibleChar">●</property>
+          </widget>
+          <packing>
+            <property name="X">98</property>
+            <property name="Y">84</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="label1">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">Sensors:</property>
+          </widget>
+          <packing>
+            <property name="X">290</property>
+            <property name="Y">64</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.CheckButton" id="chkUseCallback">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Label" translatable="yes">Use Callback instead of 250ms timer</property>
+            <property name="DrawIndicator">True</property>
+            <property name="HasLabel">True</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Toggled" handler="OnChkUseCallbackToggled" />
+          </widget>
+          <packing>
+            <property name="X">286</property>
+            <property name="Y">19</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.TextView" id="lstSensors">
+            <property name="MemberName" />
+            <property name="WidthRequest">228</property>
+            <property name="HeightRequest">247</property>
+            <property name="CanFocus">True</property>
+            <property name="Editable">False</property>
+            <property name="Text" translatable="yes" />
+          </widget>
+          <packing>
+            <property name="X">290</property>
+            <property name="Y">80</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="label6">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">Current Gesture:</property>
+          </widget>
+          <packing>
+            <property name="X">290</property>
+            <property name="Y">333</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Entry" id="txtGesture">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="IsEditable">False</property>
+            <property name="WidthChars">3</property>
+            <property name="InvisibleChar">●</property>
+          </widget>
+          <packing>
+            <property name="X">376</property>
+            <property name="Y">331</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="btnQuit">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Quit</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="OnBtnQuitClicked" />
+          </widget>
+          <packing>
+            <property name="X">486</property>
+            <property name="Y">337</property>
+          </packing>
+        </child>
+      </widget>
+    </child>
+  </widget>
+</stetic-interface>

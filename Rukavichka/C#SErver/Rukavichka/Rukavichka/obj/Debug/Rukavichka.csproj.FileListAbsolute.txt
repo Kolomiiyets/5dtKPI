@@ -1,0 +1,26 @@
+E:\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\Rukavichka.exe.config
+E:\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\Rukavichka.exe
+E:\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\Rukavichka.pdb
+E:\Rukavichka\C#SErver\Rukavichka\Rukavichka\obj\Debug\Rukavichka.csprojResolveAssemblyReference.cache
+E:\Rukavichka\C#SErver\Rukavichka\Rukavichka\obj\Debug\Rukavichka.csproj.CoreCompileInputs.cache
+E:\Rukavichka\C#SErver\Rukavichka\Rukavichka\obj\Debug\Rukavichka.exe
+E:\Rukavichka\C#SErver\Rukavichka\Rukavichka\obj\Debug\Rukavichka.pdb
+E:\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\FDTGloveUltraCSharpWrapper.dll
+E:\Rukavichka\C#SErver\Rukavichka\Rukavichka\obj\Debug\Rukavichka.csproj.CopyComplete
+E:\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\fglove.dll
+C:\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\Rukavichka.exe.config
+C:\Rukavichka\C#SErver\Rukavichka\Rukavichka\obj\Debug\Rukavichka.exe
+C:\Rukavichka\C#SErver\Rukavichka\Rukavichka\obj\Debug\Rukavichka.pdb
+C:\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\fglove.dll
+C:\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\Rukavichka.exe
+C:\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\Rukavichka.pdb
+C:\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\FDTGloveUltraCSharpWrapper.dll
+C:\Rukavichka\C#SErver\Rukavichka\Rukavichka\obj\Debug\Rukavichka.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\КП-71мп(мн) проекти 2018\3dInteractiveDisplay\3D INTERACTIVE DISPLAY\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\Rukavichka.exe.config
+C:\Users\student\Desktop\КП-71мп(мн) проекти 2018\3dInteractiveDisplay\3D INTERACTIVE DISPLAY\Rukavichka\C#SErver\Rukavichka\Rukavichka\obj\Debug\Rukavichka.exe
+C:\Users\student\Desktop\КП-71мп(мн) проекти 2018\3dInteractiveDisplay\3D INTERACTIVE DISPLAY\Rukavichka\C#SErver\Rukavichka\Rukavichka\obj\Debug\Rukavichka.pdb
+C:\Users\student\Desktop\КП-71мп(мн) проекти 2018\3dInteractiveDisplay\3D INTERACTIVE DISPLAY\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\fglove.dll
+C:\Users\student\Desktop\КП-71мп(мн) проекти 2018\3dInteractiveDisplay\3D INTERACTIVE DISPLAY\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\Rukavichka.exe
+C:\Users\student\Desktop\КП-71мп(мн) проекти 2018\3dInteractiveDisplay\3D INTERACTIVE DISPLAY\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\Rukavichka.pdb
+C:\Users\student\Desktop\КП-71мп(мн) проекти 2018\3dInteractiveDisplay\3D INTERACTIVE DISPLAY\Rukavichka\C#SErver\Rukavichka\Rukavichka\bin\Debug\FDTGloveUltraCSharpWrapper.dll
+C:\Users\student\Desktop\КП-71мп(мн) проекти 2018\3dInteractiveDisplay\3D INTERACTIVE DISPLAY\Rukavichka\C#SErver\Rukavichka\Rukavichka\obj\Debug\Rukavichka.csprojResolveAssemblyReference.cache

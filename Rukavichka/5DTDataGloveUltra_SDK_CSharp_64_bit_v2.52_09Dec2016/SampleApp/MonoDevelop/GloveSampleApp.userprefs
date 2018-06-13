@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GloveSampleApp\MainWindow.cs">
+    <Files>
+      <File FileName="GloveSampleApp\Main.cs" Line="13" Column="23" />
+      <File FileName="GloveSampleApp\MainWindow.cs" Line="15" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="GloveSampleApp" expanded="True">
+            <Node name="References" expanded="True">
+              <Node name="C:\fd\Glove\Data_Glove_Ultra\SDK\C#\SampleApp\MonoDevelop\GloveSampleApp\FDTGloveUltraCSharpWrapper.dll" selected="True" />
+            </Node>
+            <Node name="UserInterface" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
