@@ -1,0 +1,9 @@
+C:\5DT\5DT\bin\Debug\5DT.exe.config
+C:\5DT\5DT\bin\Debug\5DT.exe
+C:\5DT\5DT\bin\Debug\5DT.pdb
+C:\5DT\5DT\obj\Debug\5DT.csprojResolveAssemblyReference.cache
+C:\5DT\5DT\obj\Debug\5DT.exe
+C:\5DT\5DT\obj\Debug\5DT.pdb
+C:\Users\student\Desktop\КП-71мп(мн) проекти 2018\3dInteractiveDisplay\3D INTERACTIVE DISPLAY\5DT\5DT\bin\Debug\5DT.exe.config
+C:\Users\student\Desktop\КП-71мп(мн) проекти 2018\3dInteractiveDisplay\3D INTERACTIVE DISPLAY\5DT\5DT\obj\Debug\5DT.exe
+C:\Users\student\Desktop\КП-71мп(мн) проекти 2018\3dInteractiveDisplay\3D INTERACTIVE DISPLAY\5DT\5DT\obj\Debug\5DT.pdb
